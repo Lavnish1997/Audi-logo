@@ -2,7 +2,7 @@
 # Audi Logo
 
 
-https://github.com/Lavnish1997/Audi-logo/edit/main/README.md
+https://github.com/Lavnish1997/Audi-logo
 
 I have made this AUDI logo design using HTML and CSS just for practiced bcoz i find this tiny project very intersting and building concepts of border,various,z-index margin and many more tiny necessary details of all these properties of CSS and the most important it is responsive to all devices 
 
